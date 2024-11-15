@@ -1,0 +1,35 @@
+# ninja log v5
+5	482	7375815126918955	build.ninja	1662e085fe579e53
+3	525	7375815126918955	build.ninja	1662e085fe579e53
+1	690	7375815134097546	Search_autogen/timestamp	c95f770a069e3dda
+1	690	7375815134097546	Search_autogen/mocs_compilation.cpp	c95f770a069e3dda
+1	690	7375815134097546	C:/Unisa/Year 3/COS3711/Assignment1/Q4/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Search_autogen/timestamp	c95f770a069e3dda
+1	690	7375815134097546	C:/Unisa/Year 3/COS3711/Assignment1/Q4/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Search_autogen/mocs_compilation.cpp	c95f770a069e3dda
+699	2290	7375815150921823	CMakeFiles/Search.dir/main.cpp.obj	c3df924118bde0aa
+706	2448	7375815152592038	CMakeFiles/Search.dir/Search_autogen/mocs_compilation.cpp.obj	c4a1ee1651e14211
+691	2953	7375815157591074	CMakeFiles/Search.dir/mainwindow.cpp.obj	cb275bca61f53ab
+11	139	7375815609568974	Search_autogen/timestamp	c95f770a069e3dda
+11	139	7375815609568974	Search_autogen/mocs_compilation.cpp	c95f770a069e3dda
+11	139	7375815609568974	C:/Unisa/Year 3/COS3711/Assignment1/Q4/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Search_autogen/timestamp	c95f770a069e3dda
+11	139	7375815609568974	C:/Unisa/Year 3/COS3711/Assignment1/Q4/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Search_autogen/mocs_compilation.cpp	c95f770a069e3dda
+148	1810	7375815626253986	CMakeFiles/Search.dir/main.cpp.obj	c3df924118bde0aa
+15	554	7375817090651213	Search_autogen/timestamp	c95f770a069e3dda
+15	554	7375817090651213	Search_autogen/mocs_compilation.cpp	c95f770a069e3dda
+15	554	7375817090651213	C:/Unisa/Year 3/COS3711/Assignment1/Q4/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Search_autogen/timestamp	c95f770a069e3dda
+15	554	7375817090651213	C:/Unisa/Year 3/COS3711/Assignment1/Q4/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Search_autogen/mocs_compilation.cpp	c95f770a069e3dda
+559	2364	7375817109271807	CMakeFiles/Search.dir/Search_autogen/mocs_compilation.cpp.obj	c4a1ee1651e14211
+555	2545	7375817111036307	CMakeFiles/Search.dir/main.cpp.obj	c3df924118bde0aa
+562	3051	7375817116021302	CMakeFiles/Search.dir/mainwindow.cpp.obj	cb275bca61f53ab
+3051	3241	7375817117861088	Search.exe	a8ccede52d9b6b0a
+7	134	7375819030475901	Search_autogen/timestamp	c95f770a069e3dda
+7	134	7375819030475901	Search_autogen/mocs_compilation.cpp	c95f770a069e3dda
+7	134	7375819030475901	C:/Unisa/Year 3/COS3711/Assignment1/Q4/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Search_autogen/timestamp	c95f770a069e3dda
+7	134	7375819030475901	C:/Unisa/Year 3/COS3711/Assignment1/Q4/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Search_autogen/mocs_compilation.cpp	c95f770a069e3dda
+143	2144	7375819050536992	CMakeFiles/Search.dir/mainwindow.cpp.obj	cb275bca61f53ab
+17	142	7375819877661168	Search_autogen/timestamp	c95f770a069e3dda
+17	142	7375819877661168	Search_autogen/mocs_compilation.cpp	c95f770a069e3dda
+17	142	7375819877661168	C:/Unisa/Year 3/COS3711/Assignment1/Q4/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Search_autogen/timestamp	c95f770a069e3dda
+17	142	7375819877661168	C:/Unisa/Year 3/COS3711/Assignment1/Q4/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Search_autogen/mocs_compilation.cpp	c95f770a069e3dda
+153	1930	7375819895518776	CMakeFiles/Search.dir/main.cpp.obj	c3df924118bde0aa
+157	2148	7375819897666552	CMakeFiles/Search.dir/mainwindow.cpp.obj	cb275bca61f53ab
+2148	2308	7375819899192404	Search.exe	a8ccede52d9b6b0a

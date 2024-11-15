@@ -1,0 +1,15 @@
+# ninja log v5
+8	1347	7375772857231282	Q1_autogen/timestamp	db3a74e9ba38d91a
+1378	3811	7375772883106859	CMakeFiles/Q1.dir/softwarereview.cpp.obj	40889c909facd3e2
+8	1347	7375772857231282	C:/Unisa/Year 3/COS3711/Assignment 1/Q1/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Q1_autogen/mocs_compilation.cpp	db3a74e9ba38d91a
+8	1347	7375772857231282	C:/Unisa/Year 3/COS3711/Assignment 1/Q1/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Q1_autogen/timestamp	db3a74e9ba38d91a
+8	1347	7375772857231282	Q1_autogen/mocs_compilation.cpp	db3a74e9ba38d91a
+1370	4031	7375772885294408	CMakeFiles/Q1.dir/mainwindow.cpp.obj	9272773348e9e2d8
+1348	4422	7375772889231224	CMakeFiles/Q1.dir/main.cpp.obj	a8412b98c79c657f
+1356	4225	7375772887204842	CMakeFiles/Q1.dir/Q1_autogen/mocs_compilation.cpp.obj	ec5eba567ecdc15b
+1364	4394	7375772888931180	CMakeFiles/Q1.dir/reviewwindow.cpp.obj	cd95820fac33e2d0
+4422	4651	7375772891468097	Q1.exe	b37c43f8d9fa4f4a
+0	19	0	CMakeFiles/clean.additional	baedbe210acaa455
+20	27	0	clean	577b940aee94fbd7
+0	23	0	CMakeFiles/clean.additional	baedbe210acaa455
+24	33	0	clean	577b940aee94fbd7

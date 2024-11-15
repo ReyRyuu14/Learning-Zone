@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Search",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Search::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Search-Debug-87bf9542d03dd418dd50.json",
+					"name" : "Search",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Search_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Search_autogen-Debug-ce2db9a6e0a2a1306ed1.json",
+					"name" : "Search_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Search_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Search_autogen_timestamp_deps-Debug-3498df11792260b06375.json",
+					"name" : "Search_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Unisa/Year 3/COS3711/Assignment1/Q4/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug",
+		"source" : "C:/Unisa/Year 3/COS3711/Assignment1/Q4"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

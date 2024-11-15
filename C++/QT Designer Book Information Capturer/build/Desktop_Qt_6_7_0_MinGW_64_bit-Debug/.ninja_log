@@ -1,0 +1,33 @@
+# ninja log v5
+7	175	7474953163383355	Question_1_autogen/timestamp	8843ef196ac51641
+7	175	7474953163383355	Question_1_autogen/mocs_compilation.cpp	8843ef196ac51641
+7	175	7474953163383355	C:/Unisa/Year 3/COS3711/Assignment 3/Question_1/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Question_1_autogen/timestamp	8843ef196ac51641
+7	175	7474953163383355	C:/Unisa/Year 3/COS3711/Assignment 3/Question_1/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Question_1_autogen/mocs_compilation.cpp	8843ef196ac51641
+804	2491	7474883245717909	CMakeFiles/Question_1.dir/book.cpp.obj	ed44dde708966046
+192	2131	7474953182952614	CMakeFiles/Question_1.dir/bookinput.cpp.obj	60007441941ae9e5
+27	36	0	clean	577b940aee94fbd7
+1027	2421	7474951311222108	CMakeFiles/Question_1.dir/bookwriter.cpp.obj	9bebd6960f0b5ea0
+0	27	0	CMakeFiles/clean.additional	baedbe210acaa455
+3	491	7474955487094733	build.ninja	a3c7346e8ffbe939
+1022	2720	7474951314316665	CMakeFiles/Question_1.dir/Question_1_autogen/mocs_compilation.cpp.obj	ff9932f77de5cabd
+1015	2852	7474951315648363	CMakeFiles/Question_1.dir/main.cpp.obj	ffc5d5c7be89aa3c
+2131	2300	7474953184554989	Question_1.exe	b4ffcc9bd26c496a
+3	439	7474955487094733	build.ninja	a3c7346e8ffbe939
+8	121	7474955488969058	Question_1_autogen/timestamp	8843ef196ac51641
+8	121	7474955488969058	Question_1_autogen/mocs_compilation.cpp	8843ef196ac51641
+8	121	7474955488969058	C:/Unisa/Year 3/COS3711/Assignment 3/Question_1/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Question_1_autogen/timestamp	8843ef196ac51641
+8	121	7474955488969058	C:/Unisa/Year 3/COS3711/Assignment 3/Question_1/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Question_1_autogen/mocs_compilation.cpp	8843ef196ac51641
+1	21	0	CMakeFiles/clean.additional	baedbe210acaa455
+21	30	0	clean	577b940aee94fbd7
+0	16	0	CMakeFiles/clean.additional	baedbe210acaa455
+16	23	0	clean	577b940aee94fbd7
+4	891	7474956390887845	Question_1_autogen/timestamp	8843ef196ac51641
+4	891	7474956390887845	Question_1_autogen/mocs_compilation.cpp	8843ef196ac51641
+4	891	7474956390887845	C:/Unisa/Year 3/COS3711/Assignment 3/Question_1/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Question_1_autogen/timestamp	8843ef196ac51641
+4	891	7474956390887845	C:/Unisa/Year 3/COS3711/Assignment 3/Question_1/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Question_1_autogen/mocs_compilation.cpp	8843ef196ac51641
+901	2520	7474956407606140	CMakeFiles/Question_1.dir/bookwriter.cpp.obj	9bebd6960f0b5ea0
+905	2549	7474956407876094	CMakeFiles/Question_1.dir/book.cpp.obj	ed44dde708966046
+895	2828	7474956410666218	CMakeFiles/Question_1.dir/main.cpp.obj	ffc5d5c7be89aa3c
+891	2840	7474956410802183	CMakeFiles/Question_1.dir/Question_1_autogen/mocs_compilation.cpp.obj	ff9932f77de5cabd
+898	2881	7474956411228009	CMakeFiles/Question_1.dir/bookinput.cpp.obj	60007441941ae9e5
+2881	3152	7474956413853583	Question_1.exe	b4ffcc9bd26c496a

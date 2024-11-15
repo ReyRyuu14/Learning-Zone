@@ -1,0 +1,37 @@
+# ninja log v5
+2	81	7474989502167975	Question_3_autogen/timestamp	ccdf53dadd0386b6
+2	359	7474990725924089	build.ninja	b4e35e5045b5f7fc
+2	81	7474989502167975	Question_3_autogen/mocs_compilation.cpp	ccdf53dadd0386b6
+2	81	7474989502167975	C:/Unisa/Year 3/COS3711/Assignment 3/Question_3/Question_3/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Question_3_autogen/timestamp	ccdf53dadd0386b6
+2	81	7474989502167975	C:/Unisa/Year 3/COS3711/Assignment 3/Question_3/Question_3/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Question_3_autogen/mocs_compilation.cpp	ccdf53dadd0386b6
+2	501	7474990725924089	build.ninja	b4e35e5045b5f7fc
+1	502	7474990731497419	Question_3_autogen/timestamp	ccdf53dadd0386b6
+1	502	7474990731497419	Question_3_autogen/mocs_compilation.cpp	ccdf53dadd0386b6
+1	502	7474990731497419	C:/Unisa/Year 3/COS3711/Assignment 3/Question_3/Question_3/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Question_3_autogen/timestamp	ccdf53dadd0386b6
+1	502	7474990731497419	C:/Unisa/Year 3/COS3711/Assignment 3/Question_3/Question_3/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Question_3_autogen/mocs_compilation.cpp	ccdf53dadd0386b6
+502	2034	7474990747344678	CMakeFiles/Question_3.dir/passwordvalidator.cpp.obj	b737a8e0d81d1b43
+505	2074	7474990747803854	CMakeFiles/Question_3.dir/Question_3_autogen/mocs_compilation.cpp.obj	dcb4016f34e825df
+508	2082	7474990747905304	CMakeFiles/Question_3.dir/main.cpp.obj	277f727fac9af746
+2083	2232	7474990749289845	Question_3.exe	9b8be68f9f6007e6
+6	514	7474991762512949	Question_3_autogen/timestamp	ccdf53dadd0386b6
+6	514	7474991762512949	Question_3_autogen/mocs_compilation.cpp	ccdf53dadd0386b6
+6	514	7474991762512949	C:/Unisa/Year 3/COS3711/Assignment 3/Question_3/Question_3/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Question_3_autogen/timestamp	ccdf53dadd0386b6
+6	514	7474991762512949	C:/Unisa/Year 3/COS3711/Assignment 3/Question_3/Question_3/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Question_3_autogen/mocs_compilation.cpp	ccdf53dadd0386b6
+515	2037	7474991778379408	CMakeFiles/Question_3.dir/main.cpp.obj	277f727fac9af746
+518	2049	7474991778541207	CMakeFiles/Question_3.dir/Question_3_autogen/mocs_compilation.cpp.obj	dcb4016f34e825df
+521	2094	7474991778948714	CMakeFiles/Question_3.dir/passwordvalidator.cpp.obj	b737a8e0d81d1b43
+2095	2224	7474991780236346	Question_3.exe	9b8be68f9f6007e6
+11	134	7474994124038964	Question_3_autogen/timestamp	ccdf53dadd0386b6
+11	134	7474994124038964	Question_3_autogen/mocs_compilation.cpp	ccdf53dadd0386b6
+11	134	7474994124038964	C:/Unisa/Year 3/COS3711/Assignment 3/Question_3/Question_3/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Question_3_autogen/timestamp	ccdf53dadd0386b6
+11	134	7474994124038964	C:/Unisa/Year 3/COS3711/Assignment 3/Question_3/Question_3/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Question_3_autogen/mocs_compilation.cpp	ccdf53dadd0386b6
+145	1505	7474994137721235	CMakeFiles/Question_3.dir/passwordvalidator.cpp.obj	b737a8e0d81d1b43
+1505	1642	7474994138938521	Question_3.exe	9b8be68f9f6007e6
+8	511	7474998626306927	Question_3_autogen/timestamp	ccdf53dadd0386b6
+8	511	7474998626306927	Question_3_autogen/mocs_compilation.cpp	ccdf53dadd0386b6
+8	511	7474998626306927	C:/Unisa/Year 3/COS3711/Assignment 3/Question_3/Question_3/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Question_3_autogen/timestamp	ccdf53dadd0386b6
+8	511	7474998626306927	C:/Unisa/Year 3/COS3711/Assignment 3/Question_3/Question_3/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Question_3_autogen/mocs_compilation.cpp	ccdf53dadd0386b6
+512	1993	7474998641562236	CMakeFiles/Question_3.dir/main.cpp.obj	277f727fac9af746
+515	1996	7474998641562236	CMakeFiles/Question_3.dir/Question_3_autogen/mocs_compilation.cpp.obj	dcb4016f34e825df
+518	2102	7474998642764794	CMakeFiles/Question_3.dir/passwordvalidator.cpp.obj	b737a8e0d81d1b43
+2103	2237	7474998643976683	Question_3.exe	9b8be68f9f6007e6
